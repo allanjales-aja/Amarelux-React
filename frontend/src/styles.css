@@ -1,0 +1,100 @@
+.Navbar {
+    background-color: #edde07;
+}
+
+.NavbarBrand {
+    background-color: #edde07;
+    color:#041e50;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+.NavLink {
+    color: #1c0486;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+header {
+    color:#041e50;
+    font-family: Arial;
+}
+
+main
+{
+    margin-top:100px;
+}
+
+main h1 {
+    color:#041e50;
+    font-family: Arial;
+    text-align: center;
+}
+
+main p {
+    color:#041e50;
+    font-family: Arial;
+    text-align: center;
+    font-size: 22px;
+}
+
+#Categorias {
+    color:#041e50;
+    font-family: Arial;
+    font-size: 13.3px;
+}
+
+.Produtos {
+    margin-left: 5%;
+    width: 100%;
+    display: inline-block;
+}
+
+.ItemProdutos {
+    text-align: center;
+    width: 20%;
+    display: inline-block;
+}
+
+.DescricaoProdutos {
+    color:#041e50;
+    font-family: Arial;
+    font-size: 13.3px;
+    margin: 0 0 0 0;
+}
+
+.PrecoProdutos {
+    color:#041e50;
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0 0 0 0;
+}
+
+.FaleConosco {
+    color:#041e50;
+    font-family: Arial;
+    font-size: 18px;
+}
+
+.Lojas {
+    width: 29%;
+    color:#041e50;
+    font-family: Arial;
+    display:inline-block;
+    text-align: center;
+}
+
+.TituloGeral {
+    color:#041e50;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+#Rodape {
+    color:#041e50;
+    font-family: Arial;
+    text-align: center;
+    font-size: 13.3px;
+    margin-top: 100px;
+}
