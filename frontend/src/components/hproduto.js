@@ -1,5 +1,5 @@
 import React from 'react';
-import Produto from './produto';
+import Produtos from './produtos';
 
 export default function Hproduto() {
     return(
@@ -12,7 +12,7 @@ export default function Hproduto() {
                     <hr className="my-1"></hr>
                 </header>
             </div>
-        <Produto />
+        <Produtos />
     </>
   );
 }
